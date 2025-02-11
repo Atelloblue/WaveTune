@@ -1,78 +1,54 @@
-# AM-FM-Radio
 
-### FM Stations:
-- [NPR](https://npr-ice.streamguys1.com/live.mp3)
-- [Soma FM](https://ice1.somafm.com/groovesalad-128-mp3)
-- [WNYC](https://fm939.wnyc.org/wnycfm-web)
-- [Classic FM](https://media-ice.musicradio.com/ClassicFMMP3)
-- [Jazz24](https://live.wostreaming.net/direct/ppm-jazz24aac-ibc1)
-- [Radio Paradise](https://stream.radioparadise.com/aac-320)
-- [BBC Radio 1](https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one)
-- [BBC Radio 2](https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two)
-- [BBC Radio 3](https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three)
-- [BBC Radio 4](https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm)
-- [France Inter](https://icecast.radiofrance.fr/franceinter-midfi.mp3)
-- [France Culture](https://icecast.radiofrance.fr/franceculture-midfi.mp3)
-- [Radio Sweden](https://http-live.sr.se/p1-mp3-192)
-- [RAI Radio 1](https://icestreaming.rai.it/1.mp3)
-- [ABC Classic](https://live-radio01.mediahubaustralia.com/2FMW/mp3/)
-- [CBC Music](https://cbcliveradio-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8)
-- [Triple J](https://live-radio01.mediahubaustralia.com/2TJW/mp3/)
-- [Kiss FM UK](https://stream-kiss.planetradio.co.uk/kissnational.mp3)
-- [Capital FM](https://media-ice.musicradio.com/CapitalUKMP3)
-- [Heart FM](https://media-ice.musicradio.com/HeartUKMP3)
-- [Smooth Radio](https://media-ice.musicradio.com/SmoothUKMP3)
-- [Radio Italia](https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8)
-- [Radio 538](https://21253.live.streamtheworld.com/RADIO538.mp3)
-- [Radio 10](https://21253.live.streamtheworld.com/RADIO10.mp3)
-- [Sky Radio](https://19993.live.streamtheworld.com/SKYRADIO.mp3)
-- [RTL Radio](https://streaming.radio.rtl.fr/rtl-1-44-128)
-- [Radio Nova](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
-- [FIP](https://icecast.radiofrance.fr/fip-midfi.mp3)
-- [MDR Jump](https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3)
-- [Bayern 1](https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid)
-- [NDR 2](https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3)
-- [WDR 2](https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3)
-- [Antenne Bayern](https://mp3channels.webradio.antenne.de/antenne)
-- [Radio Hamburg](https://stream.radiohamburg.de/rhh-live/mp3-192/stream.mp3)
-- [Radio Regenbogen](https://streams.regenbogen.de/rr-mannheim-128-mp3)
-- [RTL 102.5](https://streamingv2.shoutcast.com/rtl-1025)
-- [RDS](https://icstream.rds.radio/rds)
-- [Radio Deejay](https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8)
-- [M2O](https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8)
-- [Radio 105](https://icecast.unitedradio.it/Radio105.mp3)
-- [Virgin Radio Italy](https://icecast.unitedradio.it/Virgin.mp3)
-- [Radio 24](https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8)
-- [Radio Capital](https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8)
-- [Radio Popolare](https://live.radiopopolare.it/radiopop)
-- [RTL 102.5](https://rtl-radio1.stream24.net/rtl-live)
-- [Radio Kiss Kiss](https://ice06.fluidstream.net/KissKiss.mp3)
-- [Radio Energy Berlin](https://stream.radiogroup.de/radio-energy-berlin/aac-64/stream.mp3)
-- [Radio FFN](https://stream.ffn.de/ffn/mp3-192/stream.mp3)
-- [Radio BOB!](https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/)
-- [Radio Eins](https://rbb-radioeins-live.sslcast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3)
-- [SWR3](https://liveradio.swr.de/sw282p3/swr3/)
-- [HR3](https://hr-hr3-live.sslcast.addradio.de/hr/hr3/live/mp3/128/stream.mp3)
-- [Radio Rotterdam](https://stream.radiorotterdam.nl/live)
-- [Radio Veronica](https://20853.live.streamtheworld.com/VERONICA.mp3)
-- [3FM](https://icecast.omroep.nl/3fm-bb-mp3)
-- [Q-Music NL](https://stream.qmusic.nl/qmusic/mp3)
-- [Radio 1 BE](https://live-radio-cf.lwc.vrtcdn.be/groupc/live/47303cf3-a205-4887-9f31-3b62cb610a5a/live.isml/.m3u8)
-- [Studio Brussel](https://live-radio-cf.lwc.vrtcdn.be/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8)
-- [Radio Contact](https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3)
-- [Bel RTL](https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3)
-- [RTL FM BE](https://rtlbe.ice.infomaniak.ch/rtlbe-mp3-128.mp3)
+# Radio Stations List
 
-### AM Stations:
-- [BBC World Service](https://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
-- [Voice of America](https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28)
-- [ABC Radio National](https://live-radio01.mediahubaustralia.com/2RNW/mp3/)
-- [BBC Radio 5 Live](https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live)
-- [Deutsche Welle](https://dw.audiostream.io/dw/1012/mp3/64/dw-news)
-- [CBC Radio One](https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8)
-- [Radio New Zealand](https://stream-ice.radionz.co.nz/national.mp3)
-- [LBC UK](https://media-ice.musicradio.com/LBCUKMP3)
-- [talkSPORT](https://radio.talksport.com/stream)
-- [RMC Italia](https://icecast.unitedradio.it/RMC.mp3)
-- [Radio Bremen](https://icecast.radiobremen.de/rb/bremen1/live/mp3/128/stream.mp3)
-- [Deutschlandfunk](https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3)
+## AM Stations
+
+1. WABC New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac`
+2. WCBS New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac`
+3. WFAN New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac`
+4. WOR New York - `https://stream.revma.ihrhls.com/zc5874`
+5. WINS New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC.aac`
+6. WBBM Chicago - `https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMAMAAC.aac`
+7. WGN Chicago - `https://stream.revma.ihrhls.com/zc7036`
+8. WLS Chicago - `https://stream.revma.ihrhls.com/zc7033`
+9. WCPT Chicago - `https://stream.revma.ihrhls.com/zc7037`
+10. KFI Los Angeles - `https://stream.revma.ihrhls.com/zc177`
+11. KNX Los Angeles - `https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC.aac`
+12. KABC Los Angeles - `https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC.aac`
+13. KDKA Pittsburgh - `https://playerservices.streamtheworld.com/api/livestream-redirect/KDKAAMAAC.aac`
+14. WBZ Boston - `https://playerservices.streamtheworld.com/api/livestream-redirect/WBZAMAAC.aac`
+15. WWJ Detroit - `https://playerservices.streamtheworld.com/api/livestream-redirect/WWJAMAAC.aac`
+
+## FM Stations
+
+1. WPLJ New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WPLJFMAAC.aac`
+2. WQXR New York - `https://stream.wqxr.org/wqxr-web`
+3. WFUV New York - `https://onair.wfuv.org/onair-hi`
+4. Hot 97 New York - `https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac`
+5. Z100 New York - `https://stream.revma.ihrhls.com/zc1469`
+6. WBEZ Chicago - `https://stream.wbez.org/wbez-web.mp3`
+7. WXRT Chicago - `https://playerservices.streamtheworld.com/api/livestream-redirect/WXRTFMAAC.aac`
+8. B96 Chicago - `https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMFMAAC.aac`
+9. WGCI Chicago - `https://stream.revma.ihrhls.com/zc849`
+10. KIIS Los Angeles - `https://stream.revma.ihrhls.com/zc185`
+
+## European Stations
+
+1. BBC Radio 1 - `https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one`
+2. BBC Radio 2 - `https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two`
+3. BBC Radio 3 - `https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three`
+4. BBC Radio 4 - `https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm`
+5. Radio Energy Berlin - `https://stream.radiogroup.de/radio-energy-berlin/aac-64/stream.mp3`
+6. Deutschlandfunk - `https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3`
+7. Radio FFN - `https://stream.ffn.de/ffn/mp3-192/stream.mp3`
+8. Radio BOB! - `https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/`
+9. Radio Eins - `https://rbb-radioeins-live.sslcast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3`
+10. SWR3 - `https://liveradio.swr.de/sw282p3/swr3/`
+
+## International Stations
+
+1. ABC Radio National - `https://live-radio01.mediahubaustralia.com/2RNW/mp3/`
+2. Triple J - `https://live-radio01.mediahubaustralia.com/2TJW/mp3/`
+3. CBC Radio One - `https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8`
+4. CBC Music - `https://cbcliveradio-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8`
+5. Radio New Zealand - `https://stream-ice.radionz.co.nz/national.mp3`
