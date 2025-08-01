@@ -1,9 +1,7 @@
 # **WaveTune**
 
-**APP NOW SUPPORTED CLICK ADD TO HOME SCREEN!**
-
 ## **Description**
-WaveTune is a cutting-edge radio website offering access to **350+ live radio stations** and continuously expanding! It is the **world's only online radio player** that streams over 350+ stations live, delivering an unmatched variety of music, talk shows, news, and more.
+WaveTune is a cutting-edge radio website offering access to **350+ live radio stations** and continuously expanding! It is one of the **world's biggest open source online radio player** that streams over 350+ stations live, delivering an unmatched variety of music, talk shows, news, and more.
 
 ## **Key Features**
 - **Extensive Library**: Access to **381 live AM/FM stations** and counting.
