@@ -431,8 +431,30 @@ function playStation(url) {
     radioPlayer.play()
         .catch(error => {
             console.error("Error playing station:", error);
-            alert("Unable to play this station. Please try another one.");
+            showError("Unable to play this station. Please try another one.");
         });
+}
+
+// Add these functions to your app.js:
+function showError(message) {
+    const errorPopup = document.getElementById('error-popup');
+    const errorMessage = document.getElementById('error-message');
+    
+    if (message) {
+        errorMessage.textContent = message;
+    }
+    
+    errorPopup.classList.add('show');
+    
+    // Auto-hide after 5 seconds
+    setTimeout(() => {
+        hideError();
+    }, 5000);
+}
+
+function hideError() {
+    const errorPopup = document.getElementById('error-popup');
+    errorPopup.classList.remove('show');
 }
 
 // Initialize the display
